@@ -1,0 +1,3 @@
+remote.txt
+Remote changes by another user
+Added remote file 
